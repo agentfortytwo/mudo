@@ -1,13 +1,29 @@
-# Mudo
-Mudo – Effortless habit tracking, elegantly simple.
+# Mudo - Minimalist Habit & Activity Tracker
 
-Track your daily habits with a beautifully minimal interface. 
-No distractions, no ads, just you and your goals.
+Mudo is a clean, simple, and privacy-focused habit tracker designed to help you visualize your consistency. Inspired by contribution heatmaps, it gives you a clear overview of your progress across different topics.
 
-✓ Create and track habits
-✓ Daily check-ins with one tap
-✓ View your progress at a glance
-✓ All data stays on your device
-✓ Clean, distraction-free design
+## ✨ Features
+- **Create Custom Topics:** Choose from a variety of icons to personalize your tracking.
+- **Visual Progress:** See your year at a glance with an intuitive dot-grid view.
+- **Simple Logging:** Mark days as "Done" or "Missed" with a single tap.
+- **Privacy First:** Your data stays on your device.
 
-Build better habits with ease, one day at a time.
+## 📸 Screenshots
+<p align="center">
+  <img src="screenshots/1.PNG" width="200" alt="Topics Overview">
+  <img src="screenshots/2.jpg" width="200" alt="Yearly View">
+  <img src="screenshots/3.PNG" width="200" alt="Monthly View">
+  <img src="screenshots/4.PNG" width="200" alt="Add New Topic">
+</p>
+
+## 🛠 Usage & Support
+If you have any questions, encounter a bug, or want to suggest a feature, please feel free to:
+- **Open an Issue:** Use the [Issues](https://github.com/agentfortytwo/mudo/issues) tab above.
+- **Contact via Email:** [DEINE-EMAIL-ADRESSE-HIER]
+
+## 🔒 Privacy Policy
+Your privacy is important. Mudo does not collect, store, or share any personal data. All tracking data is stored locally on your iPhone.
+You can find the full policy here: [Privacy Policy](PRIVACY.md)
+
+---
+*Developed with ❤️ by [Dein Name/Nutzername]*
