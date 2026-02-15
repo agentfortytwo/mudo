@@ -26,4 +26,4 @@ Your privacy is important. Mudo does not collect, store, or share any personal d
 You can find the full policy here: [Privacy Policy](PRIVACY.md)
 
 ---
-*Developed with ❤️ by [Dein Name/Nutzername]*
+*Developed with ❤️ by AgentFortyTwo*
