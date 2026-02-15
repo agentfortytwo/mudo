@@ -1,4 +1,4 @@
-# mudo
+# Mudo
 Mudo – Effortless habit tracking, elegantly simple.
 
 Track your daily habits with a beautifully minimal interface. 
